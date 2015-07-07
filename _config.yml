@@ -1,7 +1,7 @@
 name: Shuyang's site
 markdown: redcarpet
 pygments: true
-source: http://jianajian.github.io/blog/
+source: http://jianajian.github.io/blog
 # 站点信息
 title: jianAjian 
 description: jianAjian

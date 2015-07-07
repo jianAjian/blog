@@ -1,3 +1,11 @@
+
+---
+layout: default_markdown
+title:  "Hello world!"
+date:   2013-11-28 18:40:24
+categories: website update
+
+---
 #自定义控制器动画切换效果
 
 之前在微博上看到有人转发的这种效果,一直想学习,偶尔一次在一个帖子上看到实现过程,[原文][raywenderlichURL] 使用swift实现.
