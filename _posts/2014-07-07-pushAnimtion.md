@@ -4,7 +4,6 @@ layout: default_markdown
 title:  "Hello world!"
 date:   2013-11-28 18:40:24
 categories: website update
-
 ---
 #自定义控制器动画切换效果
 
