@@ -1,8 +1,8 @@
+
 ---
-layout: default_markdown
-title:  "Hello world!"
+layout: default
+title: Liangjian Hao - Blog
 date:   2013-11-28 18:40:24
-url: "www.baidu.com
 categories: website update
 ---
 
