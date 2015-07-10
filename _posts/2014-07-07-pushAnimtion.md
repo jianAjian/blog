@@ -1,9 +1,8 @@
 
 ---
-layout: default_markdown
+layout: default
 title:  "yeap"
 date:   2014-07-07 18:40:24
-categories: website update
 ---
 #自定义控制器动画切换效果
 
