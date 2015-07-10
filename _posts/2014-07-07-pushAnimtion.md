@@ -16,7 +16,7 @@ categories: website update
 
 ![alt text][id]
 
-[id]: ../images/pushAnimation.gif "效果图1"
+[id]: {{site.url}}/assets/pushAnimation/pushAnimation.gif "效果图1"
 
 wow  效果太赞了 👍
 
