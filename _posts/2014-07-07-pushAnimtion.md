@@ -1,8 +1,6 @@
 
 ---
-layout: default
-title:  "yeap"
-date:   2014-07-07 18:40:24
+layout: default_markdown
 ---
 #自定义控制器动画切换效果
 
