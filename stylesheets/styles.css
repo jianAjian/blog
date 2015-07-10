@@ -100,7 +100,9 @@ img {
 header {
   width:270px;
   float:left;
-  position:fixed;
+  /*position:fixed;*/
+  left: 30px;
+  top: 20px;
   background-color: blue;
 }
 
